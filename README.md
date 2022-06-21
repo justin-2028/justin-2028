@@ -1,6 +1,6 @@
 ### Introducing. . .  Justin ⚓
 # Currently Dabbling with R, Revisiting Python, Java and C++
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=gradient)
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
 
 <!--
