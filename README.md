@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
-**________________________________________________________________________________________________________________________________________________** <br /> <br />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45) <br />
 Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++** to Build a **Multi-Faceted Skillset.** <br /> 
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 
