@@ -1,8 +1,8 @@
-### Introducing. . .  Justin ⚓
-# Currently Dabbling with R, Revisiting Python, Java and C++
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
+### > Currently Dabbling With R, Revisiting Python, Java and C++ For a Multi-Faceted Skillset < <br /> 
+
 <!--
 **justin-2028/justin-2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
