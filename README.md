@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage
-- 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip
+- 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation
 - ⚡ Fun fact: ...
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
