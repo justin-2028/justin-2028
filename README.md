@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...please be productive today 7/6
 - 🤔 I’m looking for help with ...starting a convo with arya again
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage
