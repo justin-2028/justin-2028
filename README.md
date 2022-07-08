@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...please be productive today 7/6
-- 🤔 I’m looking for help with ...starting a convo with arya again TODAY
+- 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage
 - 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation
