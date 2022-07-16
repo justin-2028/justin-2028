@@ -12,7 +12,7 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...well i completely cheesed the Persolv project, idk how to feel about that...in the meantime i technically finished obsessing over that LIW content but idt i'll be able to stop fully, maybe im facing withdrawal symptoms.
 - 👯 I’m looking to collaborate on ...please be productive today 7/6
 - 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though - i should prob message tomorrow though - did aly, might do arya tmrw depending on persolv progress
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory
