@@ -7,7 +7,7 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 **________________________________________________________________________________________________________________________________________________**
 
 <!--
-**justin-2028/justin-2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though - i should prob message tomorrow though - did aly, might do arya tmrw depending on persolv progress
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage
-- 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation
+- 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation..ok no progress yet but still have hope ig stanford drofnats
 - ⚡ Fun fact: ...
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
