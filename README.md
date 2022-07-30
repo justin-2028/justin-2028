@@ -8,7 +8,7 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile. I need to grind to attend OC Fair with the coaches. wtf is going on between izzy and her bf, this is why hs dating is moronic in 90% of cases ig its bittersweet now hehehe
-jay meeting today prepare now 400th contribution pog so bored, also raymond got her somehow niceee also josh is a god
+jay meeting today prepare now 400th contribution pog so bored, also raymond got her somehow niceee also josh is a god yeee the paprika dude is best stu
 Here are some ideas to get you started:
  wrote down what lessons i've learned from anime, seemed to help with my obsession with love is war lately thank god
 - 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that
