@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...well i completely cheesed the Persolv project, idk how to feel about that...in the meantime i technically finished obsessing over that LIW content but idt i'll be able to stop fully, maybe im facing withdrawal symptoms. pls work todsat
 - 👯 I’m looking to collaborate on ...please be productive today 7/6 
 - 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though - i should prob message tomorrow though - did aly, might do arya tmrw depending on persolv progress AUGUST GRIND TIME, WAKE UP ON TIME AND REESTABLISH CONNECTIONS LESGOOOOO MAYBE IT WAS ME WHO WAS WRONG ALL ALONG
-- 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory  pushed janet and bo to rank 25
+- 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory  pushed janet and bo to rank 25  now im pushing PL solo
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage pushed janet and bo to rank 25
 - 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation..ok no progress yet but still have hope ig stanford drofnats
 - ⚡ Fun fact: ...
