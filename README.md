@@ -18,7 +18,7 @@ Here are some ideas to get you started: the arya call went pretty well lesgo wel
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory  pushed janet and bo to rank 25  now im pushing PL solo
 - 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage pushed janet and bo to rank 25
 - 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation..ok no progress yet but still have hope ig stanford drofnats
-- ⚡ Fun fact: ...lulxd
+- ⚡ Fun fact: ...lulxd well i got lectured for 20min and i froze and couldn't answer anything....why are you like this justin there is no reason to do that.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
