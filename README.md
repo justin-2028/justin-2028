@@ -7,7 +7,7 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 **________________________________________________________________________________________________________________________________________________**
 
 <!--
-**justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile. I need to grind to attend OC Fair with the coaches. wtf is going on between izzy and her bf, this is why hs dating is moronic in 90% of cases ig its bittersweet now hehehe
+**justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile. I need to grind to attend OC Fair with the coaches. wtf is going on between izzy and her bf, this is why hs dating is moronic in 90% of cases ig its bittersweet now hehehe aditya is not doing iva yesss
 jay meeting today prepare now 400th contribution pog so bored, also raymond got her somehow niceee also josh is a god yeee the paprika dude is best stu
 Here are some ideas to get you started: the arya call went pretty well lesgo welll i got to friend her tho i did it, 6hrs straight convo
  wrote down what lessons i've learned from anime, seemed to help with my obsession with love is war lately thank god, time to finish movielens
