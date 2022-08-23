@@ -11,7 +11,7 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 jay meeting today prepare now 400th contribution pog so bored, also raymond got her somehow niceee also josh is a god yeee the paprika dude is best stu 
 Here are some ideas to get you started: the arya call went pretty well lesgo welll i got to friend her tho i did it, 6hrs straight convo msg her rn L
  wrote down what lessons i've learned from anime, seemed to help with my obsession with love is war lately thank god, time to finish movielens
-- 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that
+- 🔭 I’m currently working on ...UCI Ethics Center Internship about to enter module 3 pog hoenstly i gotta work harder for that got the dunk lows, fake af but nice af
 - 🌱 I’m currently learning ...well i completely cheesed the Persolv project, idk how to feel about that...in the meantime i technically finished obsessing over that LIW content but idt i'll be able to stop fully, maybe im facing withdrawal symptoms. pls work todsat DANG IT I MISSED A DAY BY 3 MINUTES AND I GOT KATLEN
 - 👯 I’m looking to collaborate on ...please be productive today 7/6 back in the building please let me get a good score on the movielens project
 - 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though - i should prob message tomorrow though - did aly, might do arya tmrw depending on persolv progress AUGUST GRIND TIME, WAKE UP ON TIME AND REESTABLISH CONNECTIONS LESGOOOOO MAYBE IT WAS ME WHO WAS WRONG ALL ALONG
