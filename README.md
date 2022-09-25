@@ -16,7 +16,7 @@ Here are some ideas to get you started: the arya call went pretty well lesgo wel
 - 👯 I’m looking to collaborate on ...please be productive today 7/6 back in the building please let me get a good score on the movielens project SAT knocked me out
 - 🤔 I’m looking for help with ...starting a convo with arya again ok fr TODAY though - i should prob message tomorrow though - did aly, might do arya tmrw depending on persolv progress AUGUST GRIND TIME, WAKE UP ON TIME AND REESTABLISH CONNECTIONS LESGOOOOO MAYBE IT WAS ME WHO WAS WRONG ALL ALONG  now i started blakc summoner bro
 - 💬 Ask me about ...disregard maybe IR idk what i meant about this    holy shit "love is war" is amazing, want to read the manga now but then i'll venture into weird territory  pushed janet and bo to rank 25  now im pushing PL solo if some bum copies my movielens project then im gonna be furious   skipped spanish, very ashamed
-- 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage pushed janet and bo to rank 25 lol djjdjdjjd hi fuck playsation 
+- 📫 How to reach me: ... in exchange for mortis, my phone has been taken hostage pushed janet and bo to rank 25 lol djjdjdjjd hi fuck playsation  started yet anotha anime bruh bro black summoner and now this weird cuckcoo thing
 - 😄 Pronouns: ...whoops, forgot to make a repo edit for july 2nd, rip make that 2 in compensation..ok no progress yet but still have hope ig stanford drofnats
 - ⚡ Fun fact: ...lulxd well i got lectured for 20min and i froze and couldn't answer anything....why are you like this justin there is no reason to do that.
 
