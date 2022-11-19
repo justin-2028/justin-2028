@@ -4,8 +4,8 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br />
-**________________________________________________________________________________________________________________________________________________**
-
+**________________________________________________________________________________________________________________________________________________** <br /> <br />
+![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile. I need to grind to attend OC Fair with the coaches. wtf is going on between izzy and her bf, this is why hs dating is moronic in 90% of cases ig its bittersweet now hehehe aditya is not doing iva yesss
 jay meeting today prepare now 400th contribution pog so bored, also raymond got her somehow niceee also josh is a god yeee the paprika dude is best stu
@@ -26,6 +26,5 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) 
-![](https://komarev.com/ghpvc/?username=justin-2028&color=green) <br /> <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
 -->
