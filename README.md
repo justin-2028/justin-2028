@@ -26,5 +26,6 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) 
+![](https://komarev.com/ghpvc/?username=justin-2028&color=green) <br /> <br />
 -->
