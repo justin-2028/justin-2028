@@ -11,7 +11,6 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
-lol
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45)
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++** to Build a **Multi-Faceted Skillset.** <br /> 
@@ -19,4 +18,8 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
+
+<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 -->
