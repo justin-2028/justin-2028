@@ -7,6 +7,8 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?justin2028" width="100%" height="300" style="border:none; min-width: 1000px;"></iframe>
+
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
