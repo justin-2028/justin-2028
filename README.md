@@ -7,8 +7,6 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?justin2028" width="100%" height="300" style="border:none; min-width: 1000px;"></iframe>
-
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,8 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
+
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?justin2028)
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
