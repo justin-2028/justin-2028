@@ -2,8 +2,8 @@
 Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++** to Build a **Multi-Faceted Skillset.** <br /> 
 **________________________________________________________________________________________________________________________________________________** <br />
 
-![Justin's GitHub Stats](https://github-readme-stats-woad-sigma.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats-woad-sigma.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
@@ -17,6 +17,9 @@ Seeking a Career in **Cybersecurity.** Currently Dabbling With **R** While Revis
 github-readme-stats-woad-sigma.vercel.app
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats) <br /> <br />
+
+![Justin's GitHub Stats](https://github-readme-stats-woad-sigma.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
+[![Top Langs](https://github-readme-stats-woad-sigma.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
 
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?justin2028)
 
