@@ -25,4 +25,6 @@ github-readme-stats-woad-sigma.vercel.app
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
+I increased the targets for commits and stars, such that it is now more challenging (and more motivational IMO) to reach the S rank. To summarize, a user with 1000 commits per year, 200 PRs, 100 issues, 1000 stars and 100 followers is S. 2 times less is A+, 4 times less is A.
+
 -->
