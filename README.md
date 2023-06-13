@@ -3,7 +3,7 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 **________________________________________________________________________________________________________________________________________________** <br />
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
