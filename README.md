@@ -10,6 +10,9 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 </p>
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light" alt="dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light" alt="notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion/light" alt="discussion" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition/light" alt="competition" />
 </p>
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light)
