@@ -5,9 +5,12 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
+![justin2028](https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028)
+![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
+
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
-</p>
-<!--
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028" alt="justin2028 badge" />
+</p>
 -->
