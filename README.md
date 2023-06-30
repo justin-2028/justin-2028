@@ -7,5 +7,7 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028" alt="justin2028 badge" />
 </p>
+<!--
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028" alt="justin2028 badge" />
+-->
