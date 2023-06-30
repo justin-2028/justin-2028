@@ -6,7 +6,7 @@
 Seeking a Career in <strong>Data Science.</strong> Currently Dabbling With <strong>R</strong> While Revisiting <strong>Python</strong>, <strong>Java</strong> and <strong>C++</strong> to Build a <strong>Multi-Faceted Skillset.</strong>
 </p>
 
-**________________________________________________________________________________________________________________________________________________** <br />
+<h2 align="center">________________________________________________________________________________________________</h2><br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal" alt="Justin's GitHub Stats" />
@@ -15,7 +15,7 @@ Seeking a Career in <strong>Data Science.</strong> Currently Dabbling With <stro
   </a>
 </p>
 
-**________________________________________________________________________________________________________________________________________________** <br />
+<h2 align="center">________________________________________________________________________________________________</h2><br />
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light" alt="dataset" />
@@ -25,7 +25,9 @@ Seeking a Career in <strong>Data Science.</strong> Currently Dabbling With <stro
 </p>
 <br />
 
-![](https://komarev.com/ghpvc/?username=justin-2028&color=blue) <br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
+</p>
 
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
