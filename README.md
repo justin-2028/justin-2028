@@ -5,21 +5,15 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
 **________________________________________________________________________________________________________________________________________________** <br />
-<p align="center">
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition/light)
-</p>
+
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light" alt="dataset" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light" alt="notebook" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion/light" alt="discussion" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition/light" alt="competition" />
 </p>
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion/light) <br /> <br />
+<br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue) <br />
-</p>
 
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +30,9 @@ github-readme-stats-woad-sigma.vercel.app
 [![Top Langs](https://github-readme-stats-woad-sigma.vercel.app/api/top-langs/?username=justin-2028)](https://github.com/justin-2028/github-readme-stats)
 
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?justin2028)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion/light) <br /> <br />
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
