@@ -1,5 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45) <br />
-Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++** to Build a **Multi-Faceted Skillset.** <br /> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45" alt="header" />
+</p>
+
+<p align="center">
+Seeking a Career in <strong>Data Science.</strong> Currently Dabbling With <strong>R</strong> While Revisiting <strong>Python</strong>, <strong>Java</strong> and <strong>C++</strong> to Build a <strong>Multi-Faceted Skillset.</strong>
+</p>
+
 **________________________________________________________________________________________________________________________________________________** <br />
 
 <p align="center">
