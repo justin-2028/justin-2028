@@ -8,6 +8,9 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 <p align="center">
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition/light)
 </p>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light" alt="dataset" />
+</p>
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light)
