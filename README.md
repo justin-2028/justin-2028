@@ -8,7 +8,6 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie" alt="Top Langs" />
   </a>
 </p>
-<br />
 
 **________________________________________________________________________________________________________________________________________________** <br />
 
