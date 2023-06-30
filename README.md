@@ -7,10 +7,10 @@ Seeking a Career in **Data Science.** Currently Dabbling With **R** While Revisi
 **________________________________________________________________________________________________________________________________________________** <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue) <br />
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/justin2028/discussion/light)
 
 <!--
 **justin-2028/justin-2028** is a special repository because its `README.md` (this file) appears on your GitHub profile.
