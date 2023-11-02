@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45) <br />
-Seeking a Career in **Data-Driven Political Science.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++**.<br /> 
+Seeking a Career in **Data-Driven Political Science.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++** for a multi-faceted skillset.<br /> 
 <br />
 
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
