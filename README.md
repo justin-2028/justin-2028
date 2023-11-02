@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028" alt="justin2028 badge" />
 </p>
--->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Introducing...%20Justin%20☄️&fontSize=45) <br />
 <br />
 Seeking a Career in **Data-Driven Political Science.** Currently Dabbling With **R** While Revisiting **Python**, **Java** and **C++**.<br /> 
+
+-->
