@@ -1,14 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Justin%20Oh%20☄️&fontSize=45)
 <p align='center'>Seeking a Career in Data-Driven Political Science. Currently Dabbling With R While Revisiting Python, Java and C++.</p>
 <p align='center'>_________________________________________________________________________________________________________________________</p>
-
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
+</p>
 <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
 <!--
 ![justin2028](https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028)
+
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
+<br /> <br />
+![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
