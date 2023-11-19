@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie)](https://github.com/justin-2028/github-readme-stats)
 <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
-![justin2028](https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028)
 
 <!--
 ![justin2028](https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028)
