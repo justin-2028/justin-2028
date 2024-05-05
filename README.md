@@ -18,7 +18,7 @@
 <br /> <br />
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=justin-2028&color=blue" alt="Profile views counter" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/justin2028" alt="justin2028 badge" />
 </p>
