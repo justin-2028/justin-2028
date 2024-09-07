@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Justin%20Oh%20&fontSize=45">
 <p align='center'>Seeking a Career as a Data-Driven Policymaker. Currently Dabbling With R While Revisiting Python, Java and C++.</p>
-<p align='center'>_________________________________________________________________________________________________________________</p>
+<p align='center'>_______________________________________________________________________________________________________________</p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
