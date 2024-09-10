@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=Stanford%20'28&descAlign=61&descAlignY=57&fontColor=000000&reversal=false"></p>
 
 # Glad you could visit.
-I'm a student entrepreneur who specializes 
+I'm a student entrepreneur who is ready to plunge into the world of venture capital. For the past two summers, I've interned at the Department of Homeland Security's various data operation divisions and have also tried (and failed) an attempt at an EduTech AI startup. I'm one of the youngest grandmasters on Kaggle, the world's largest datasci community, and have made applications such as Project Nuance in my free time. 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
