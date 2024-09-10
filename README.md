@@ -1,8 +1,8 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=Stanford%20'28&descAlign=61&descAlignY=57&fontColor=000000&reversal=false"></p>
 
-# Glad you made a visit.
-<p align='center'>Seeking a Career as a Data-Driven Policymaker. Currently Dabbling With R While Revisiting Python, Java and C++.</p>
+# Glad you could visit.
+## I'm a student entrepreneur who specializes in. 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
