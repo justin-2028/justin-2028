@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=Stanford%20'28&descAlign=61&descAlignY=57&fontColor=000000&reversal=false"></p>
 
 # Glad you could visit.
-## I'm a student entrepreneur who specializes in. 
+I'm a student entrepreneur who specializes 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
@@ -36,4 +36,7 @@ Seeking a Career in **Data-Driven Political Science.** Currently Dabbling With *
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,30,30,30,30&height=200&section=header&text=Justin%20Oh%20&fontSize=45">
 https://capsule-render.vercel.app/
 0, 10, 12 ( blue), 14 is pale blue, pink purple 18, yellow is 28, 30 is og
+
+## You're the ![Visitor Count](https://profile-counter.glitch.me/{justin-2028}/count.svg) visitor!
+
 -->
