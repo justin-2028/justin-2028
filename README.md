@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=77&fontAlignY=36&animation=scaleIn&desc=Stanford%20'28&descAlign=88&descAlignY=56&fontColor=000000&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=35&animation=scaleIn&desc=Stanford%20'28&descAlign=61&descAlignY=55&fontColor=000000&reversal=false">
 
 <p align='center'>Seeking a Career as a Data-Driven Policymaker. Currently Dabbling With R While Revisiting Python, Java and C++.</p>
 <p align='center'>_______________________________________________________________________________________________________________</p>
