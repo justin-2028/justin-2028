@@ -4,8 +4,8 @@
 # Glad you could visit.
 I'm a student entrepreneur who is ready to plunge into the world of venture capital. For the past two summers, I've interned at the Department of Homeland Security's various data operation divisions and have also made a failed (but insightful) attempt at an EduTech AI startup. I'm currently one of the youngest grandmasters on Kaggle, the world's largest datasci community, and have made applications such as Project Nuance in my free time. 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&theme=normal">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie">
+  <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&bg_color=00000000&theme=blue_navy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie&bg_color=00000000&theme=blue_navy">
 </p>
 <br />
 
