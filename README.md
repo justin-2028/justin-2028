@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=Stanford%20'28&descAlign=61&descAlignY=57&fontColor=ffffff&reversal=false"></p>
 
 # Glad you could visit.
-I'm a **student entrepreneur** who is ready to plunge into the world of **venture capital**. For the past two summers, I've interned at the [**Department of Homeland Security**](https://www.dhs.gov/office-chief-information-officer)'s various data operation divisions and have also made a failed (but insightful) attempt at an EduTech AI startup. I'm currently one of the youngest grandmasters on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community, and have made applications such as [**Project Nuance**](https://chromewebstore.google.com/detail/ohmnagpojoibhhgdmilppjkefocgpcnk) in my free time. <br><br>
+I'm a **student entrepreneur**. For the past two summers, I've interned at the [**Department of Homeland Security**](https://www.dhs.gov/office-chief-information-officer)'s various data operation divisions and have also made a failed (but insightful) attempt at an EduTech AI startup. I'm currently one of the youngest grandmasters on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community, and have made applications such as [**Project Nuance**](https://chromewebstore.google.com/detail/ohmnagpojoibhhgdmilppjkefocgpcnk) in my free time. <br><br>
 Feel free to reach out at **ohjustin [at] stanford [dot] edu.**
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&bg_color=00000000&theme=blue_navy">
