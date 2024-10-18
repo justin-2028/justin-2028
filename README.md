@@ -6,7 +6,7 @@ I'm a **student entrepreneur** majoring in Data Science. For the past two summer
 Feel free to reach out at **ohjustin [at] stanford [dot] edu.**
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&bg_color=00000000&theme=blue_navy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie&exclude_repo=Project-Nuance&bg_color=00000000&theme=blue_navy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie&bg_color=00000000&theme=blue_navy">
 </p>
 <br />
 
