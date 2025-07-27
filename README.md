@@ -12,7 +12,6 @@
 Feel free to reach out by **giving me a dare or a jolt of excitement.**
 
 <br />
-<br />
 
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
