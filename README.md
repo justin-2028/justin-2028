@@ -11,6 +11,9 @@
 
 Feel free to reach out by **giving me a dare or a jolt of excitement.**
 
+<img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" />
+
+
 <br />
 
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
