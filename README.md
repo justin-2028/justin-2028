@@ -9,7 +9,7 @@ People either know me as:<br>
 **2)** Formerly a top US ranked player on [**Brawl Stars**](https://supercell.com/en/games/brawlstars/), a Supercell mobile game. <br>
 **3)** Someone who singlehandedly incites mischief and impromptu explorations at Stanford. <br><br>
 
-Feel free to reach out at **ohjustin [at] stanford [dot] edu.**
+Feel free to reach out by **giving me a dare or a jolt of excitement.**
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&bg_color=00000000&theme=blue_navy">
