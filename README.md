@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal&descAlign=57&descAlignY=57&fontColor=ffffff&reversal=false"></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
 
 # Glad you could visit.
 I'm a **student entrepreneur** majoring in Data Science. For the past two summers, I've interned at the [**Department of Homeland Security**](https://www.dhs.gov/office-chief-information-officer)'s various data operation divisions and have also made a failed (but insightful) attempt at an EduTech AI startup. I'm currently one of the youngest grandmasters on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community, and have made applications such as [**Project Nuance**](https://chromewebstore.google.com/detail/ohmnagpojoibhhgdmilppjkefocgpcnk) in my free time. <br><br>
