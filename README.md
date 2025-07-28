@@ -2,12 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
 
 # Glad you could visit.
-#### I love to take leaps of faith, often in the form of side quests and sometimes through meaningful ventures.<br><br>
 
 ### People either know me as:<br>
 **1)** The youngest US grandmaster on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community. <br>
 **2)** Formerly a top US ranked player on [**Brawl Stars**](https://supercell.com/en/games/brawlstars/), a Supercell mobile game. <br>
 **3)** Someone who singlehandedly incites mischief and impromptu explorations at Stanford. <br><br>
+
+#### I love to take leaps of faith, often in the form of side quests and sometimes through meaningful ventures.<br><br>
 
 Feel free to reach out by **giving me a dare or seemingly wild idea.**
 
