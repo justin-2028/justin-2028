@@ -6,9 +6,9 @@
 ### People either know me as:<br>
 **1)** The youngest US grandmaster on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community. <br>
 **2)** Formerly a top US ranked player on [**Brawl Stars**](https://supercell.com/en/games/brawlstars/), a Supercell mobile game. <br>
-**3)** Someone who singlehandedly incites mischief and impromptu explorations at Stanford. <br><br>
+**3)** Someone who singlehandedly incites mischief and impromptu explorations at Stanford. <br><br><br>
 
-#### I love to take leaps of faith, often in the form of side quests and sometimes through meaningful ventures.<br><br>
+### I love to take leaps of faith, often in the form of side quests and sometimes through meaningful ventures.<br><br>
 
 Feel free to reach out by **giving me a dare or seemingly wild idea.**
 
