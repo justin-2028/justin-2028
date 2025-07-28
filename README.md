@@ -9,7 +9,7 @@
 **2)** Formerly a top US ranked player on [**Brawl Stars**](https://supercell.com/en/games/brawlstars/), a Supercell mobile game. <br>
 **3)** Someone who singlehandedly incites mischief and impromptu explorations at Stanford. <br><br>
 
-Feel free to reach out by **giving me a dare or proposing a wild idea.**
+Feel free to reach out by **giving me a dare or seemingly wild idea.**
 
 <img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" />
 
