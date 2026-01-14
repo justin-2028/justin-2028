@@ -6,9 +6,9 @@
 ### People either know me as:<br>
 **1)** Formerly the youngest US grandmaster on [**Kaggle**](https://www.kaggle.com/justin2028), the world's largest datasci community. <br>
 **2)** Stanford's very own [clock tower winder](https://stanfordmag.org/contents/who-winds-the-clock) and famed urban explorer. <br>
-**3)** A deeply curious and fiercely loyal friend. <br><br><br>
+**3)** A deeply curious and fiercely loyal friend. <br><br>
 
-I love to take leaps of faith, often in the form of **side quests** and sometimes through **meaningful ventures**.<br><br>
+I love to take leaps of faith, often in the form of **side quests** and sometimes through **meaningful ventures**.<br>
 
 <img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" />
 
