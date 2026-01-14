@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=10&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=12&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
 
 # Glad you could visit.
 
