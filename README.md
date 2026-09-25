@@ -8,7 +8,7 @@
 
 <img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" />
 
-I love to take leaps of faith, usually in the form of side quests or meaningful ventures.<br>
+I love to take leaps of faith, usually through side quests or meaningful ventures.<br>
 
 <br />
 
