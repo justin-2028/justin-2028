@@ -4,9 +4,9 @@
 ## People know me as...<br>
 **1)** A [**Kaggle Grandmaster**](https://www.kaggle.com/justin2028), formerly the youngest in the USA at age 17. <br>
 **2)** Stanford's very own [clock tower winder](https://stanfordmag.org/contents/who-winds-the-clock) and famed urban explorer. <br>
-**3)** Collector of weirdly bizarre life experiences. <br>
+**3)** Collector of weirdly bizarre life experiences. <br><br>
 
-<img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" />
+<img width="497" height="308" alt="image" src="https://github.com/user-attachments/assets/d4280e4e-5728-42d8-b79a-cde3c0270f4b" /><br>
 
 I love to take leaps of faith, usually through side quests or meaningful ventures.<br>
 
