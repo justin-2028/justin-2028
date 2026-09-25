@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=12&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
 
-## People know me as:<br>
+# People know me as:<br>
 **1)** A [**Kaggle Grandmaster**](https://www.kaggle.com/justin2028), formerly the youngest US GM at age 17. <br>
 **2)** Stanford's very own [clock tower winder](https://stanfordmag.org/contents/who-winds-the-clock) and famed urban explorer. <br>
 **3)** Collector of weirdly bizarre life experiences. <br><br>
