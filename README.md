@@ -1,5 +1,4 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=12&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
+<div align="center"><img src="header.svg"></div>
 
 ## People know me as...<br>
 **1)** A [**Kaggle Grandmaster**](https://www.kaggle.com/justin2028), formerly the youngest in the USA at age 17. <br>
@@ -15,6 +14,11 @@ I love to take leaps of faith, usually through side quests or meaningful venture
 ![](https://komarev.com/ghpvc/?username=justin-2028&color=blue)
 
 <!--
+
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=gradient&&customColorList=12&text=Justin%20Oh&section=header&fontAlign=50&fontAlignY=37&animation=scaleIn&desc=making%20life%20surreal.&descAlign=58&descAlignY=57&fontColor=ffffff&reversal=false"></p>
+
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=justin-2028&show_icons=true&bg_color=00000000&theme=blue_navy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-2028&exclude_repo=project-sophie&bg_color=00000000&theme=blue_navy">
