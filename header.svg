@@ -1,0 +1,24 @@
+<svg width="854" height="182" viewBox="0 0 854 182" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-size: 70px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
+    .desc { font-size: 20px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
+    .text, .desc { animation: scaleIn .8s ease-in-out forwards; transform-origin: center; }
+    @keyframes scaleIn { from { transform: scale(0); } to { transform: scale(1); } }
+  </style>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0L 0 121Q 213.5 161 427 131T 854 156L 854 0 Z" fill="url(#linear)" opacity="0.4">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" begin="0s"
+      values="M0 0L 0 121Q 213.5 161 427 131T 854 156L 854 0 Z;M0 0L 0 146Q 213.5 161 427 141T 854 131L 854 0 Z;M0 0L 0 166Q 213.5 136 427 166T 854 131L 854 0 Z;M0 0L 0 121Q 213.5 161 427 131T 854 156L 854 0 Z"/>
+  </path>
+  <path d="M0 0L 0 136Q 213.5 181 427 151T 854 161L 854 0 Z" fill="url(#linear)" opacity="0.4">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" begin="-10s"
+      values="M0 0L 0 136Q 213.5 181 427 151T 854 161L 854 0 Z;M0 0L 0 151Q 213.5 121 427 121T 854 141L 854 0 Z;M0 0L 0 146Q 213.5 126 427 151T 854 166L 854 0 Z;M0 0L 0 136Q 213.5 181 427 151T 854 161L 854 0 Z"/>
+  </path>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="74.4" class="text" fill="#ffffff">Justin Oh</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="58%" y="114.6" class="desc" fill="#ffffff">making life surreal.</text>
+</svg>
